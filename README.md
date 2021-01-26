@@ -3,7 +3,7 @@
 This is the project made from Edamam API, which populates the recipe cards. App can search query and filter the recipes.
 
 <ul> Technologies Used
-  <li>React <li>
+  <li>React</li>
   <li>SASS/SCSS</li>
   <li>JEST</li>
 
